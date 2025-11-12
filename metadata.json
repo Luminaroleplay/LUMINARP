@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Voice Chat",
+  "description": "Have a real-time voice conversation with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
